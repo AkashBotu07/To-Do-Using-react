@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AkashBotu07/To-Do-Using-react.git/static/css/main.a07b3766.css",
+    "main.js": "/AkashBotu07/To-Do-Using-react.git/static/js/main.04027a02.js",
+    "index.html": "/AkashBotu07/To-Do-Using-react.git/index.html",
+    "main.a07b3766.css.map": "/AkashBotu07/To-Do-Using-react.git/static/css/main.a07b3766.css.map",
+    "main.04027a02.js.map": "/AkashBotu07/To-Do-Using-react.git/static/js/main.04027a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a07b3766.css",
+    "static/js/main.04027a02.js"
+  ]
+}
